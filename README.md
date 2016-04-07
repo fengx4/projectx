@@ -10,6 +10,13 @@ Created by: Amath 583
 1.install
 2.use
 
+## Example
+
+```
+print 'hello, world'
+
+```
+
 ## License
 
 BSD
