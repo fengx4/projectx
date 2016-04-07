@@ -7,3 +7,7 @@ Created by: Feng
 
 1.install
 2.use
+
+## License
+
+BSD
